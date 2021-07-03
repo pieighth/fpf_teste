@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+  align-items: center;
+  text-align: center;
+}
+header {
+  align-items: center;
+}
+li {
+  width: 100%;
+  text-align: center;
+  border: 1px;
+}
+.list h1 {
+  text-align: center;
+}
+.button-novo {
+  width: 200px;
+}
+.button-center {
+  text-align: center;
+}
